@@ -7,7 +7,7 @@ Bem-vindo ao **FastFood App**, uma plataforma de delivery inspirada no modelo do
 - **Escolha de consumo**: Opção para definir se o pedido será consumido no local ou retirado.
 - **Catálogo de produtos**: Exibição dos produtos organizados por categorias.
 - **Detalhes do produto**: Visualização detalhada de cada item antes da compra.
-- **Carrinho interativo**: Adicionar, remover e alterar a quantidade dos produtos no carrinho.
+- **Carrinho interativo**: Adicionar, alterar a quantidade dos produtos no carrinho.
 - **Finalização do pedido**: Tela para revisão da compra com validador de CPF.
 - **Acompanhamento do pedido**: Monitoramento do status do pedido utilizando o CPF.
 
@@ -27,11 +27,11 @@ Bem-vindo ao **FastFood App**, uma plataforma de delivery inspirada no modelo do
 - **React** - Biblioteca para construção da interface do usuário.
 - **Next.js** - Framework para React com renderização otimizada.
 - **TypeScript** - Tipagem estática para maior segurança no código.
-- **Prisma** - ORM para gerenciamento de banco de dados.
-- **PostgreSQL** - Banco de dados relacional.
 - **TailwindCSS** - Estilização moderna e responsiva.
 - **Shadcn** - Componentes estilizados para UI.
 - **Neon.tech** - Plataforma para gerenciamento de banco de dados PostgreSQL na nuvem.
+- **Prisma** - ORM para gerenciamento de banco de dados.
+- **PostgreSQL** - Banco de dados relacional.
 
 ## 📦 Como Rodar o Projeto
 
