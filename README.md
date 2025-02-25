@@ -3,6 +3,7 @@
 Bem-vindo ao **FastFood App**, uma plataforma de delivery inspirada no modelo do McDonald's! O usuário pode escolher entre comer no estabelecimento ou retirar o pedido, visualizar os produtos por categoria, adicionar itens ao carrinho, finalizar a compra com validação de CPF e acompanhar seus pedidos.
 
 Acesse: https://fast-food-app-opal.vercel.app/foodfly
+(Versão apenas para mobile)
 
 ## 🚀 Funcionalidades
 
